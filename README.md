@@ -6,9 +6,9 @@ Vless & Vmess:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy) 
 
-[![Deploy to zeet](https://deploy.zeet.co/Xray-heroku.svg)](https://deploy.zeet.co/?url=https://github.com/ygcaicn/Xray-heroku)
+[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy)
 
-![](show.png)
+[![Deploy to zeet](https://deploy.zeet.co/Xray-heroku.svg)](https://deploy.zeet.co/?url=https://github.com/ygcaicn/Xray-heroku)
 
 ## Heroku部署问题
 
